@@ -1,1 +1,1 @@
-# Auto-Pay
+# Auto-Pay Buddy
