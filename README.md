@@ -1,2 +1,2 @@
 ## FlowPAY 
-Agentic payment x402 agentic pay.
+Agentic payment x402 agentic pay!
