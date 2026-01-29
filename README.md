@@ -1,2 +1,2 @@
 ## FlowPAY 
-x402 Agentic payment!
+x402 Agentic payment on cronos!
